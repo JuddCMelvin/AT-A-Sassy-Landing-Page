@@ -12,8 +12,6 @@
     }
 }
 
-
-
 .btn-primary {
     @extend %btn;
     @include set-bg(lighten($primary-color, 10%));
